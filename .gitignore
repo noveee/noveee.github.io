@@ -41,6 +41,3 @@ Gemfile.lock
 /.bundle/
 /_site/
 *.gem
-/vendor/bundle/
-.bundle/
-_site/
